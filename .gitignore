@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+*.swp
+*.tmp
+*.bak
+*.log
+*.pid
+*.pid.lock
+*.lock
+*.tmp.lock
+*.tmp
+*.log
+*.log.*
+*.log_tmp   
+*.log_tmp.*     
+*.log_tmp.*.*
+FUNDING.yml/

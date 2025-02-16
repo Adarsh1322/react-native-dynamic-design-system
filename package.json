@@ -1,0 +1,67 @@
+{
+  "name": "react-native-dynamic-design-system",
+  "version": "1.0.1",
+  "description": "A reusable design system for React Native",
+  "keywords": [
+    "react-native",
+    "design-system",
+    "ui-kit",
+    "components",
+    "styled-components",
+    "theming"
+  ],
+  "homepage": "https://github.com/Adarsh1322/react-native-design-system#readme",
+  "bugs": {
+    "url": "https://github.com/Adarsh1322/react-native-design-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adarsh1322/react-native-design-system.git"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Adarsh1322"
+  },
+  "license": "MIT",
+  "author": "Adarsh Pandey",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "babel src --out-dir dist --ignore 'src/**/*.test.js'",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.0",
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "@babel/preset-react": "^7.22.0",
+    "@babel/preset-typescript": "^7.22.0"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.68.0",
+    "styled-components": ">=5.0.0",
+    "react-native-vector-icons": ">=9.0.0",
+    "react-native-reanimated": ">=3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    },
+    "react-native": {
+      "optional": true
+    },
+    "styled-components": {
+      "optional": true
+    },
+    "react-native-vector-icons": {
+      "optional": true
+    },
+    "react-native-reanimated": {
+      "optional": true
+    }
+  },
+  "module": "index.js"
+}
