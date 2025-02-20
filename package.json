@@ -1,6 +1,6 @@
 {
   "name": "react-native-dynamic-design-system",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A reusable design system for React Native",
   "keywords": [
     "react-native",
@@ -10,13 +10,13 @@
     "styled-components",
     "theming"
   ],
-  "homepage": "https://github.com/Adarsh1322/react-native-design-system#readme",
+  "homepage": "https://github.com/Adarsh1322/react-native-dynamic-design-system#readme",
   "bugs": {
-    "url": "https://github.com/Adarsh1322/react-native-design-system/issues"
+    "url": "https://github.com/Adarsh1322/react-native-dynamic-design-system/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adarsh1322/react-native-design-system.git"
+    "url": "git+https://github.com/Adarsh1322/react-native-dynamic-design-system.git"
   },
   "funding": {
     "type": "github",
